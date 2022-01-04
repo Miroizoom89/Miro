@@ -1,0 +1,10 @@
+apple;1.12
+banana;1.80
+orange;1.30
+pineapple;8.50
+kiwi;2.05
+watermelon;15.20
+mango;6.15
+white grapes;12.30
+lychee;1.20
+rhubarb;8.70

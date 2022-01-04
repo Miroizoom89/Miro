@@ -1,0 +1,10 @@
+tomato;6.45
+cucumber;10.50
+carrot;4.60
+onion;2.80
+potato;3.50
+garlic;8.40
+pepper;3.80
+leek;4.50
+lettuce;14
+celery;3.80

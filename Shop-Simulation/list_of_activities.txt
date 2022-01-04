@@ -1,0 +1,39 @@
+Client 2:
+Client 2 buys a/an milk from shop assistant 2
+Client 2 buys a/an toothpaste from shop assistant 2
+Client 2 buys a/an milk from shop assistant 2
+Client 2 buys a/an oil from shop assistant 2
+Client 2 buys a/an sugar from shop assistant 2
+Receipt for client 2
+milk.........3.500000
+toothpaste.........12.000000
+milk.........3.500000
+oil.........12.000000
+sugar.........4.000000
+Payment total: 35.000000
+Client 1:
+Client 1 buys a/an soap from shop assistant 3
+Client 1 buys a/an dish soap from shop assistant 3
+Client 1 buys a/an sugar from shop assistant 3
+Client 1 buys a/an dish soap from shop assistant 3
+Client 1 buys a/an soap from shop assistant 3
+Receipt for client 1
+soap.........3.200000
+dish soap.........7.500000
+sugar.........4.000000
+dish soap.........7.500000
+soap.........3.200000
+Payment total: 25.400000
+Client 3:
+Client 3 buys a/an toailet papre from shop assistant 3
+Client 3 buys a/an milk from shop assistant 3
+Client 3 buys a/an toothbrush from shop assistant 3
+Client 3 buys a/an toothbrush from shop assistant 3
+Client 3 buys a/an milk from shop assistant 3
+Receipt for client 3
+toailet papre.........6.500000
+milk.........3.500000
+toothbrush.........4.500000
+toothbrush.........4.500000
+milk.........3.500000
+Payment total: 22.500000

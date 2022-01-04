@@ -1,1 +1,0 @@
-W repozytorium znajduje się poprawiony kod programu.

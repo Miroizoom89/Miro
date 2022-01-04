@@ -1,0 +1,10 @@
+oil;12
+dish soap;7.50
+soap;3.20
+tissues paper;1.30
+toailet papre;6.50
+toothpaste;12
+toothbrush;4.50
+sugar;4.00
+flour;2.20
+milk;3.50
