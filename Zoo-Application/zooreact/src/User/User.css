@@ -1,0 +1,215 @@
+
+#logger {
+    width: 200px;
+    height: 250px;
+    margin: 200px auto;
+    background-color: wheat;
+    border: 3px solid black;
+    padding: 5px;
+    font-size: 22px;
+}
+
+#logInfo {
+    min-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.categories {
+    float: left;
+    margin-left: 25px;
+    margin-top: 5px;
+    font-size: 28px;
+    padding: 10px;
+    background-color: aliceblue;
+    text-align: center;
+    border: solid black 2px;
+    cursor: pointer;
+    width: 200px;
+    height: 40px;
+
+}
+
+.categories.clicked {
+    background-color: antiquewhite;
+}
+
+.categories:hover {
+    background-color: antiquewhite;
+    font-weight: bold;
+}
+
+#tablebox {
+    float: left;
+    margin-left: 25px;
+    margin-top: 40px;
+    margin-bottom: 50px;
+    width: 800px;
+    height: 540px;
+    border: solid black 3px;
+    overflow: auto;
+    background-color: azure;
+}
+
+#DialWin {
+    float: left;
+    width: 317px;
+    min-height: 520px;
+    border: solid black 3px;
+    margin-top: 40px;
+    margin-left: 70px;
+    background-color: azure;
+    padding: 10px;
+}
+
+#dialWinCont {
+    font-size: 20px;
+}
+
+#description {
+    max-width: 310px;
+    min-width: 310px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    text-align: center;
+    padding: 0 1px;
+    height: 40px;
+    background-color: #BAA587;
+    color: white;
+    border-right: 1px solid #ddd;
+}
+
+td {
+    text-align: center;
+    height: 27px;
+    padding: 0 2px;
+    border-right: 1px solid #ddd;
+}
+
+tr:nth-child(even) {
+    background-color: #e2e2e2;
+}
+
+.add {
+    background-color: #5CbF60;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    height: 38px;
+    width: 90%;
+    cursor: pointer;
+    border-radius: 4px;
+    transition-duration: 0.2s;
+}
+
+.add:hover {
+    background-color: white;
+    color: black;
+}
+
+.delete {
+    background-color: #CD5C5C;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 1px 2px;
+    width: 40%;
+    cursor: pointer;
+    border-radius: 4px;
+    transition-duration: 0.2s;
+}
+
+.delete:hover {
+    background-color: white;
+    color: black;
+}
+
+.edit {
+    background-color: #2Ea0FF;
+    color: white;
+    font-size: 18px;
+    padding: 1px 2px;
+    font-weight: bold;
+    width: 50%;
+    cursor: pointer;
+    border-radius: 4px;
+    transition-duration: 0.2s;
+}
+
+.edit:hover {
+    background-color: white;
+    color: black;
+}
+
+#tasksList {
+    float: left;
+    background-color: azure;
+    width: 400px;
+    height: 600px;
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    border: solid black 3px;
+    overflow: auto;
+    padding: 0 5px;
+    font-size: 18px;
+}
+
+.task {
+    margin-top: 5px;
+    border: solid black 2px;
+    width: 98%;
+    min-height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2px;
+    cursor: pointer;
+    filter: brightness(100%);
+    opacity: 90%;
+}
+
+.task:hover {
+    filter: brightness(93%);
+    opacity: 100%;
+    border: solid black 3px;
+}
+
+.task.clicked {
+    border: solid black 3px;
+    filter: brightness(93%);
+    opacity: 100%;
+    cursor: default;
+}
+
+#taskInfo {
+    float: left;
+    background-color: azure;
+    border: solid black 3px;
+    margin-top: 20px;
+    margin-left: 30px;
+    width: 750px;
+    min-height: 600px;
+    font-size: 20px;
+}
+
+#taskInfo > .info {
+    padding: 15px 30px;
+}
+
+.confirm {
+    float: right;
+    margin-right: 50px;
+    padding: 3px;
+    font-size: 25px;
+    cursor: pointer;
+}

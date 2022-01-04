@@ -1,0 +1,46 @@
+#intro {
+    float: left;
+    padding: 10px;
+    width: 910px;
+}
+
+#specieslist {
+    float: right;
+    background-color: aliceblue;
+    width: 300px;
+    height: 600px;
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-left: auto;
+    border: 3px solid black;
+    overflow: auto;
+}
+
+.species {
+    list-style: none;
+    font-size: 25px;
+    padding: 3px 3px 3px 5px;
+    cursor: pointer;
+}
+
+.species:hover {
+    color: coral;
+}
+
+.species.clicked {
+    color: red;
+}
+
+li::before {
+    content: "-";
+    padding-right: 5px;
+    color: coral;
+}
+
+#map {
+    float: left;
+    padding: 10px;
+    margin-top: 10px;
+    max-width: 910px;
+    margin-left: 150px;
+}
